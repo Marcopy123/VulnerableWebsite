@@ -21,3 +21,4 @@ if(isset($_SESSSION['id']) && isset($_SESSION['user_name'])) {
     exit();
 }
 ?>
+test
